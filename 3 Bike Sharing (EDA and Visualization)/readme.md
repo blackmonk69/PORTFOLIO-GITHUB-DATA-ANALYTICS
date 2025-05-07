@@ -1,9 +1,8 @@
 ## Bike Sharing Stats
-<p>&nbsp;</p>
+
 In this project, we used the Bike Sharing Dataset from Kaggle to perform EDA and Visualization.
 
 Project features:
- 
 * Checking Null values
 * Checking distribution of Values using Seaborn
 * Column renaming
