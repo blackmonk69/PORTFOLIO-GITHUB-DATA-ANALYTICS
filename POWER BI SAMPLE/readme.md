@@ -5,9 +5,9 @@ Project features:
  * Placing background on Dashboard.
 
 Before:
-POWER BI SAMPLE\before.png
+![screenshot](before.png)
 
 
 After:
-POWER BI SAMPLE\after.png
+![screenshot](after.png)
 
