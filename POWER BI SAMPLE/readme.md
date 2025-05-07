@@ -7,10 +7,8 @@ Project features:
 Before:
 ![screenshot](before.jpg)
 
-dsf
+
 After:
 ![screenshot](after.jpg)
-df
-<img src="before.jpg" alt="My cool logo"/>
-# My cool project and above is the logo of it
+
 
