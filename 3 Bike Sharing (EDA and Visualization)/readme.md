@@ -1,4 +1,4 @@
-<p><span style="color:#00897b;font-size:18px;">Bike Sharing Stats</span></p>
+## Bike Sharing Stats
 <p>&nbsp;</p>
 In this project, we used the Bike Sharing Dataset from Kaggle to perform EDA and Visualization.
 
