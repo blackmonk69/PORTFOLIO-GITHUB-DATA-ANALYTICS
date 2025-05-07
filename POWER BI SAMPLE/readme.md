@@ -5,7 +5,7 @@ Project features:
  * Placing background on Dashboard.
 
 Before:
-![screenshot](before.jpg)
+![screenshot](sony-world-photography-awards-2014-winners-22.jpg)
 
 
 After:
