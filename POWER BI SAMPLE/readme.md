@@ -5,9 +5,10 @@ Project features:
  * Placing background on Dashboard.
 
 Before:
-![screenshot](before.png)
+![screenshot](before.jpg)
 
 
 After:
-![screenshot](after.png)
+![screenshot](after.jpg)
+
 
