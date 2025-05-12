@@ -10,6 +10,6 @@ Project features:
 * Use of barplots, lineplots, heatmaps, piecharts.
 
 
-![screenshot](images\bar_chart.png)
-![screenshot](images\humidity.png)
-![screenshot](images\various_bar_charts.png)
+![screenshot](images/bar_chart.png)
+![screenshot](images/humidity.png)
+![screenshot](images/various_bar_charts.png)
